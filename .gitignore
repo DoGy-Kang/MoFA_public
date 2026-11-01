@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# data / artifacts
+data/
+Results_openweb/
+External_Results/
+*.pth
+*.pt
