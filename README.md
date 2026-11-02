@@ -127,7 +127,7 @@ Results are saved as JSON to `./External_Results/`.
 ```bibtex
 @inproceedings{kang2026attention,
   title     = {Attention Function as an Intrinsic Inductive Bias: How Models' Behavior Diverges in Novel Contexts},
-  author    = {Kang, Dong Gyun and others},
+  author    = {Kang, Dong Gyun and Thukral, Megha and Kim, Kwangsoo},
   booktitle = {NeurIPS 2026 Workshop on Developmental Perspectives on AI},
   year      = {2026}
 }
